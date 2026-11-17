@@ -1,0 +1,43 @@
+// Cast sheets for the example shorts, drawn with the template's own toon.ts (no new drawing code).
+import { Pen, bodyFront, Outfit, Expr, SKINS, INK, RIFLEMAN } from "../src/videos/bridge/toon";
+type Card = { name: string; o: Outfit; expr: Expr; mode?: "march" | "stroll" | "stand" | "sit" | "fall"; phase?: number; seed: number; facing?: -1 | 0 | 1; tilt?: number; headTilt?: number; prop?: any };
+const CASTS: Record<string, { title: string; bg: string; cards: Card[] }> = {
+  millennium: { title: "The Bridge That Taught a Crowd to March (London, 2000)", bg: "#b8d0ec", cards: [
+    { name: "Opening-day walker", o: { jacket: "#3f6fb5", pants: "#3b3f52", boots: "#4a3426", hat: "hair", hair: "#5a3b2a", skin: SKINS[0] }, expr: "smile", mode: "stroll", seed: 3 },
+    { name: "Tourist with ice cream", o: { jacket: "#e2453c", pants: "#2f3a5a", boots: "#f4f1ea", hat: "cap", cap: "#2f5f6a", skin: SKINS[1] }, expr: "lick", mode: "stroll", phase: 0.3, seed: 8, prop: "icecream" },
+    { name: "Wobbling commuter", o: { jacket: "#5d7a3a", pants: "#3d4440", boots: INK, hat: "hair", hair: "#2a201a", skin: SKINS[3] }, expr: "nervous", mode: "stand", seed: 11, tilt: 0.12, headTilt: -0.1 },
+    { name: "Engineer (stern)", o: { jacket: "#8c3b4a", pants: "#3b3f52", boots: INK, hat: "hair", hair: "#7a7a80", moustache: "#5a5a60", build: "stout", skin: SKINS[2] }, expr: "stern", mode: "stand", seed: 5 },
+    { name: "Ghost of 1831 rifleman", o: { ...RIFLEMAN, skin: SKINS[0] }, expr: "grin", mode: "march", seed: 2 },
+  ] },
+  pisa: { title: "The Tower That Was Saved by a War (Pisa, 1173-2001)", bg: "#ffd8a8", cards: [
+    { name: "Master builder", o: { jacket: "#b5653f", pants: "#5a4632", boots: "#4a3426", hat: "cap", cap: "#c0353a", moustache: "#4a3020", build: "stout", skin: SKINS[1] }, expr: "stern", mode: "stand", seed: 4 },
+    { name: "Mason", o: { jacket: "#d9a441", pants: "#5a4632", boots: "#4a3426", hat: "hair", hair: "#2a201a", skin: SKINS[3] }, expr: "shock", mode: "stand", seed: 9, tilt: -0.08 },
+    { name: "Apprentice (kid)", o: { jacket: "#5a8fc2", pants: "#5a4632", boots: "#4a3426", hat: "cap", cap: "#5d7a3a", build: "kid", skin: SKINS[0] }, expr: "grin", mode: "stand", seed: 6 },
+    { name: "1990s engineer", o: { jacket: "#f08a2c", pants: "#2f3a5a", boots: INK, hat: "cap", cap: "#ffd23a", skin: SKINS[2] }, expr: "nervous", mode: "stand", seed: 12, headTilt: 0.15 },
+    { name: "Tourist 'holding it up'", o: { jacket: "#c25a7a", pants: "#3b3f52", boots: "#f4f1ea", hat: "hair", hair: "#d9a441", skin: SKINS[0] }, expr: "grin", mode: "stand", seed: 14, tilt: 0.1 },
+  ] },
+  whale: { title: "The Day It Rained Whale (Florence, Oregon, 1970)", bg: "#cfe3f0", cards: [
+    { name: "Highway engineer", o: { jacket: "#f08a2c", pants: "#3d4440", boots: "#4a3426", hat: "cap", cap: "#ffd23a", build: "stout", skin: SKINS[0] }, expr: "smile", mode: "stand", seed: 4 },
+    { name: "TV reporter", o: { jacket: "#3f6fb5", pants: "#3b3f52", boots: INK, hat: "hair", hair: "#5a3b2a", skin: SKINS[2] }, expr: "neutral", mode: "stand", seed: 7 },
+    { name: "Spectator (cheering)", o: { jacket: "#c25a7a", pants: "#2f3a5a", boots: "#f4f1ea", hat: "hair", hair: "#2a201a", skin: SKINS[3] }, expr: "laugh", mode: "stand", seed: 10 },
+    { name: "Spectator (realising)", o: { jacket: "#5d7a3a", pants: "#3b3f52", boots: INK, hat: "cap", cap: "#e2453c", skin: SKINS[1] }, expr: "shock", mode: "stand", seed: 13, tilt: -0.1 },
+    { name: "Car owner", o: { jacket: "#8c3b4a", pants: "#3b3f52", boots: INK, hat: "hair", hair: "#7a7a80", moustache: "#5a5a60", skin: SKINS[0] }, expr: "dazed", mode: "stand", seed: 16 },
+  ] },
+};
+(window as any).drawSheet = (key: string) => {
+  const C = CASTS[key], n = C.cards.length, cw = 300, ch = 520, pad = 20, head = 70;
+  const cv = document.createElement("canvas"); cv.width = n * cw + pad * 2; cv.height = ch + head + 50; document.body.appendChild(cv);
+  const g = cv.getContext("2d")!;
+  g.fillStyle = C.bg; g.fillRect(0, 0, cv.width, cv.height);
+  g.fillStyle = "#241726"; g.font = "bold 30px sans-serif"; g.fillText(C.title, pad, 46);
+  C.cards.forEach((c, i) => {
+    g.save(); g.translate(pad + i * cw, head); g.scale(cw / 600, cw / 600);
+    g.fillStyle = "rgba(36,23,38,0.18)"; g.beginPath(); g.ellipse(300, 975, 120, 18, 0, 0, Math.PI * 2); g.fill();
+    const p = new Pen(g);
+    bodyFront(p, c.o, { expr: c.expr, mode: c.mode ?? "stand", phase: c.phase ?? 0.1, seed: c.seed, facing: c.facing ?? 0, tilt: c.tilt ?? 0, headTilt: c.headTilt ?? 0, prop: c.prop ?? null });
+    g.restore();
+    g.fillStyle = "#241726"; g.font = "20px sans-serif"; g.textAlign = "center";
+    g.fillText(c.name, pad + i * cw + cw / 2, head + ch + 30); g.textAlign = "left";
+  });
+  return cv.toDataURL("image/png");
+};

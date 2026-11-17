@@ -1,0 +1,1040 @@
+{
+"note": "ESTIMATED word timings (no voice recorded yet). Replace with real STT timings, then re-time story.ts.",
+"words": [
+{
+"word": "London",
+"start": 0.25,
+"end": 0.621
+},
+{
+"word": "built",
+"start": 0.621,
+"end": 0.945
+},
+{
+"word": "a",
+"start": 0.945,
+"end": 1.084
+},
+{
+"word": "brand",
+"start": 1.084,
+"end": 1.408
+},
+{
+"word": "new",
+"start": 1.408,
+"end": 1.64
+},
+{
+"word": "bridge,",
+"start": 1.64,
+"end": 2.011
+},
+{
+"word": "and",
+"start": 2.191,
+"end": 2.422
+},
+{
+"word": "on",
+"start": 2.422,
+"end": 2.608
+},
+{
+"word": "its",
+"start": 2.608,
+"end": 2.839
+},
+{
+"word": "very",
+"start": 2.839,
+"end": 3.117
+},
+{
+"word": "first",
+"start": 3.117,
+"end": 3.442
+},
+{
+"word": "day,",
+"start": 3.442,
+"end": 3.673
+},
+{
+"word": "the",
+"start": 3.853,
+"end": 4.085
+},
+{
+"word": "crowd",
+"start": 4.085,
+"end": 4.409
+},
+{
+"word": "taught",
+"start": 4.409,
+"end": 4.78
+},
+{
+"word": "it",
+"start": 4.78,
+"end": 4.965
+},
+{
+"word": "to",
+"start": 4.965,
+"end": 5.151
+},
+{
+"word": "dance.",
+"start": 5.151,
+"end": 5.475
+},
+{
+"word": "It's",
+"start": 6.045,
+"end": 6.267
+},
+{
+"word": "June",
+"start": 6.267,
+"end": 6.533
+},
+{
+"word": "2000.",
+"start": 6.533,
+"end": 6.799
+},
+{
+"word": "The",
+"start": 7.219,
+"end": 7.44
+},
+{
+"word": "first",
+"start": 7.44,
+"end": 7.751
+},
+{
+"word": "new",
+"start": 7.751,
+"end": 7.972
+},
+{
+"word": "bridge",
+"start": 7.972,
+"end": 8.327
+},
+{
+"word": "in",
+"start": 8.327,
+"end": 8.505
+},
+{
+"word": "central",
+"start": 8.505,
+"end": 8.904
+},
+{
+"word": "London",
+"start": 8.904,
+"end": 9.258
+},
+{
+"word": "in",
+"start": 9.258,
+"end": 9.436
+},
+{
+"word": "over",
+"start": 9.436,
+"end": 9.702
+},
+{
+"word": "a",
+"start": 9.702,
+"end": 9.835
+},
+{
+"word": "century,",
+"start": 9.835,
+"end": 10.234
+},
+{
+"word": "a",
+"start": 10.414,
+"end": 10.547
+},
+{
+"word": "thin",
+"start": 10.547,
+"end": 10.813
+},
+{
+"word": "steel",
+"start": 10.813,
+"end": 11.123
+},
+{
+"word": "blade",
+"start": 11.123,
+"end": 11.434
+},
+{
+"word": "across",
+"start": 11.434,
+"end": 11.788
+},
+{
+"word": "the",
+"start": 11.788,
+"end": 12.01
+},
+{
+"word": "river.",
+"start": 12.01,
+"end": 12.321
+},
+{
+"word": "Ninety",
+"start": 12.891,
+"end": 13.226
+},
+{
+"word": "thousand",
+"start": 13.226,
+"end": 13.645
+},
+{
+"word": "people",
+"start": 13.645,
+"end": 13.981
+},
+{
+"word": "turn",
+"start": 13.981,
+"end": 14.233
+},
+{
+"word": "up",
+"start": 14.233,
+"end": 14.4
+},
+{
+"word": "to",
+"start": 14.4,
+"end": 14.568
+},
+{
+"word": "walk",
+"start": 14.568,
+"end": 14.82
+},
+{
+"word": "across",
+"start": 14.82,
+"end": 15.155
+},
+{
+"word": "it.",
+"start": 15.155,
+"end": 15.323
+},
+{
+"word": "A",
+"start": 15.893,
+"end": 16.031
+},
+{
+"word": "few",
+"start": 16.031,
+"end": 16.262
+},
+{
+"word": "minutes",
+"start": 16.262,
+"end": 16.677
+},
+{
+"word": "in,",
+"start": 16.677,
+"end": 16.862
+},
+{
+"word": "the",
+"start": 17.042,
+"end": 17.273
+},
+{
+"word": "deck",
+"start": 17.273,
+"end": 17.55
+},
+{
+"word": "starts",
+"start": 17.55,
+"end": 17.919
+},
+{
+"word": "to",
+"start": 17.919,
+"end": 18.103
+},
+{
+"word": "wiggle.",
+"start": 18.103,
+"end": 18.472
+},
+{
+"word": "Not",
+"start": 18.892,
+"end": 19.123
+},
+{
+"word": "up",
+"start": 19.123,
+"end": 19.308
+},
+{
+"word": "and",
+"start": 19.308,
+"end": 19.538
+},
+{
+"word": "down.",
+"start": 19.538,
+"end": 19.815
+},
+{
+"word": "Sideways.",
+"start": 20.235,
+"end": 20.697
+},
+{
+"word": "So",
+"start": 21.267,
+"end": 21.452
+},
+{
+"word": "everybody",
+"start": 21.452,
+"end": 21.963
+},
+{
+"word": "does",
+"start": 21.963,
+"end": 22.241
+},
+{
+"word": "what",
+"start": 22.241,
+"end": 22.52
+},
+{
+"word": "you'd",
+"start": 22.52,
+"end": 22.798
+},
+{
+"word": "do",
+"start": 22.798,
+"end": 22.984
+},
+{
+"word": "on",
+"start": 22.984,
+"end": 23.17
+},
+{
+"word": "a",
+"start": 23.17,
+"end": 23.309
+},
+{
+"word": "wobbly",
+"start": 23.309,
+"end": 23.68
+},
+{
+"word": "boat.",
+"start": 23.68,
+"end": 23.959
+},
+{
+"word": "Feet",
+"start": 24.379,
+"end": 24.657
+},
+{
+"word": "wider,",
+"start": 24.657,
+"end": 24.982
+},
+{
+"word": "and",
+"start": 25.162,
+"end": 25.394
+},
+{
+"word": "sway",
+"start": 25.394,
+"end": 25.672
+},
+{
+"word": "along",
+"start": 25.672,
+"end": 25.997
+},
+{
+"word": "with",
+"start": 25.997,
+"end": 26.276
+},
+{
+"word": "it.",
+"start": 26.276,
+"end": 26.461
+},
+{
+"word": "Which",
+"start": 27.031,
+"end": 27.328
+},
+{
+"word": "pushes",
+"start": 27.328,
+"end": 27.666
+},
+{
+"word": "the",
+"start": 27.666,
+"end": 27.878
+},
+{
+"word": "bridge",
+"start": 27.878,
+"end": 28.217
+},
+{
+"word": "a",
+"start": 28.217,
+"end": 28.344
+},
+{
+"word": "little",
+"start": 28.344,
+"end": 28.682
+},
+{
+"word": "further.",
+"start": 28.682,
+"end": 29.063
+},
+{
+"word": "So",
+"start": 29.483,
+"end": 29.653
+},
+{
+"word": "they",
+"start": 29.653,
+"end": 29.907
+},
+{
+"word": "sway",
+"start": 29.907,
+"end": 30.161
+},
+{
+"word": "a",
+"start": 30.161,
+"end": 30.288
+},
+{
+"word": "little",
+"start": 30.288,
+"end": 30.626
+},
+{
+"word": "harder.",
+"start": 30.626,
+"end": 30.965
+},
+{
+"word": "Two",
+"start": 31.535,
+"end": 31.737
+},
+{
+"word": "thousand",
+"start": 31.737,
+"end": 32.141
+},
+{
+"word": "strangers,",
+"start": 32.141,
+"end": 32.585
+},
+{
+"word": "who",
+"start": 32.765,
+"end": 32.967
+},
+{
+"word": "have",
+"start": 32.967,
+"end": 33.209
+},
+{
+"word": "never",
+"start": 33.209,
+"end": 33.492
+},
+{
+"word": "met,",
+"start": 33.492,
+"end": 33.694
+},
+{
+"word": "are",
+"start": 33.874,
+"end": 34.076
+},
+{
+"word": "now",
+"start": 34.076,
+"end": 34.278
+},
+{
+"word": "swaying",
+"start": 34.278,
+"end": 34.641
+},
+{
+"word": "in",
+"start": 34.641,
+"end": 34.803
+},
+{
+"word": "perfect",
+"start": 34.803,
+"end": 35.166
+},
+{
+"word": "step.",
+"start": 35.166,
+"end": 35.408
+},
+{
+"word": "Luckily,",
+"start": 35.978,
+"end": 36.35
+},
+{
+"word": "nobody",
+"start": 36.53,
+"end": 36.861
+},
+{
+"word": "fell",
+"start": 36.861,
+"end": 37.109
+},
+{
+"word": "in.",
+"start": 37.109,
+"end": 37.274
+},
+{
+"word": "Unluckily,",
+"start": 37.694,
+"end": 38.149
+},
+{
+"word": "the",
+"start": 38.329,
+"end": 38.536
+},
+{
+"word": "whole",
+"start": 38.536,
+"end": 38.825
+},
+{
+"word": "world",
+"start": 38.825,
+"end": 39.114
+},
+{
+"word": "watched",
+"start": 39.114,
+"end": 39.487
+},
+{
+"word": "it",
+"start": 39.487,
+"end": 39.652
+},
+{
+"word": "on",
+"start": 39.652,
+"end": 39.817
+},
+{
+"word": "the",
+"start": 39.817,
+"end": 40.024
+},
+{
+"word": "news.",
+"start": 40.024,
+"end": 40.272
+},
+{
+"word": "Every",
+"start": 40.842,
+"end": 41.142
+},
+{
+"word": "bridge",
+"start": 41.142,
+"end": 41.485
+},
+{
+"word": "has",
+"start": 41.485,
+"end": 41.7
+},
+{
+"word": "a",
+"start": 41.7,
+"end": 41.829
+},
+{
+"word": "rhythm",
+"start": 41.829,
+"end": 42.172
+},
+{
+"word": "it",
+"start": 42.172,
+"end": 42.343
+},
+{
+"word": "likes",
+"start": 42.343,
+"end": 42.644
+},
+{
+"word": "to",
+"start": 42.644,
+"end": 42.815
+},
+{
+"word": "sway",
+"start": 42.815,
+"end": 43.073
+},
+{
+"word": "at.",
+"start": 43.073,
+"end": 43.244
+},
+{
+"word": "Ever",
+"start": 43.664,
+"end": 43.922
+},
+{
+"word": "been",
+"start": 43.922,
+"end": 44.179
+},
+{
+"word": "on",
+"start": 44.179,
+"end": 44.351
+},
+{
+"word": "a",
+"start": 44.351,
+"end": 44.479
+},
+{
+"word": "bouncy",
+"start": 44.479,
+"end": 44.823
+},
+{
+"word": "castle",
+"start": 44.823,
+"end": 45.166
+},
+{
+"word": "when",
+"start": 45.166,
+"end": 45.423
+},
+{
+"word": "everyone",
+"start": 45.423,
+"end": 45.852
+},
+{
+"word": "starts",
+"start": 45.852,
+"end": 46.195
+},
+{
+"word": "jumping?",
+"start": 46.195,
+"end": 46.581
+},
+{
+"word": "Nobody",
+"start": 47.001,
+"end": 47.345
+},
+{
+"word": "planned",
+"start": 47.345,
+"end": 47.731
+},
+{
+"word": "it,",
+"start": 47.731,
+"end": 47.902
+},
+{
+"word": "but",
+"start": 48.082,
+"end": 48.297
+},
+{
+"word": "you",
+"start": 48.297,
+"end": 48.511
+},
+{
+"word": "all",
+"start": 48.511,
+"end": 48.726
+},
+{
+"word": "end",
+"start": 48.726,
+"end": 48.94
+},
+{
+"word": "up",
+"start": 48.94,
+"end": 49.112
+},
+{
+"word": "bouncing",
+"start": 49.112,
+"end": 49.541
+},
+{
+"word": "together.",
+"start": 49.541,
+"end": 49.97
+},
+{
+"word": "The",
+"start": 50.54,
+"end": 50.756
+},
+{
+"word": "bridge",
+"start": 50.756,
+"end": 51.102
+},
+{
+"word": "nudged",
+"start": 51.102,
+"end": 51.448
+},
+{
+"word": "the",
+"start": 51.448,
+"end": 51.664
+},
+{
+"word": "crowd,",
+"start": 51.664,
+"end": 51.967
+},
+{
+"word": "and",
+"start": 52.147,
+"end": 52.363
+},
+{
+"word": "the",
+"start": 52.363,
+"end": 52.579
+},
+{
+"word": "crowd",
+"start": 52.579,
+"end": 52.882
+},
+{
+"word": "nudged",
+"start": 52.882,
+"end": 53.228
+},
+{
+"word": "it",
+"start": 53.228,
+"end": 53.401
+},
+{
+"word": "right",
+"start": 53.401,
+"end": 53.704
+},
+{
+"word": "back.",
+"start": 53.704,
+"end": 53.963
+},
+{
+"word": "Two",
+"start": 54.533,
+"end": 54.758
+},
+{
+"word": "days",
+"start": 54.758,
+"end": 55.029
+},
+{
+"word": "later,",
+"start": 55.029,
+"end": 55.344
+},
+{
+"word": "they",
+"start": 55.524,
+"end": 55.794
+},
+{
+"word": "shut",
+"start": 55.794,
+"end": 56.065
+},
+{
+"word": "it.",
+"start": 56.065,
+"end": 56.245
+},
+{
+"word": "It",
+"start": 56.665,
+"end": 56.845
+},
+{
+"word": "took",
+"start": 56.845,
+"end": 57.115
+},
+{
+"word": "two",
+"start": 57.115,
+"end": 57.34
+},
+{
+"word": "years",
+"start": 57.34,
+"end": 57.656
+},
+{
+"word": "and",
+"start": 57.656,
+"end": 57.881
+},
+{
+"word": "five",
+"start": 57.881,
+"end": 58.151
+},
+{
+"word": "million",
+"start": 58.151,
+"end": 58.557
+},
+{
+"word": "pounds",
+"start": 58.557,
+"end": 58.917
+},
+{
+"word": "of",
+"start": 58.917,
+"end": 59.097
+},
+{
+"word": "shock",
+"start": 59.097,
+"end": 59.413
+},
+{
+"word": "absorbers",
+"start": 59.413,
+"end": 59.908
+},
+{
+"word": "to",
+"start": 59.908,
+"end": 60.088
+},
+{
+"word": "calm",
+"start": 60.088,
+"end": 60.358
+},
+{
+"word": "it",
+"start": 60.358,
+"end": 60.539
+},
+{
+"word": "down.",
+"start": 60.539,
+"end": 60.809
+},
+{
+"word": "Back",
+"start": 61.379,
+"end": 61.654
+},
+{
+"word": "in",
+"start": 61.654,
+"end": 61.838
+},
+{
+"word": "1831,",
+"start": 61.838,
+"end": 62.114
+},
+{
+"word": "the",
+"start": 62.294,
+"end": 62.523
+},
+{
+"word": "army",
+"start": 62.523,
+"end": 62.799
+},
+{
+"word": "banned",
+"start": 62.799,
+"end": 63.166
+},
+{
+"word": "marching",
+"start": 63.166,
+"end": 63.626
+},
+{
+"word": "in",
+"start": 63.626,
+"end": 63.809
+},
+{
+"word": "step",
+"start": 63.809,
+"end": 64.085
+},
+{
+"word": "on",
+"start": 64.085,
+"end": 64.269
+},
+{
+"word": "bridges.",
+"start": 64.269,
+"end": 64.682
+},
+{
+"word": "In",
+"start": 65.102,
+"end": 65.286
+},
+{
+"word": "2000,",
+"start": 65.286,
+"end": 65.561
+},
+{
+"word": "a",
+"start": 65.741,
+"end": 65.879
+},
+{
+"word": "bridge",
+"start": 65.879,
+"end": 66.247
+},
+{
+"word": "made",
+"start": 66.247,
+"end": 66.522
+},
+{
+"word": "a",
+"start": 66.522,
+"end": 66.66
+},
+{
+"word": "crowd",
+"start": 66.66,
+"end": 66.981
+},
+{
+"word": "of",
+"start": 66.981,
+"end": 67.165
+},
+{
+"word": "tourists",
+"start": 67.165,
+"end": 67.624
+},
+{
+"word": "march",
+"start": 67.624,
+"end": 67.946
+},
+{
+"word": "in",
+"start": 67.946,
+"end": 68.13
+},
+{
+"word": "step,",
+"start": 68.13,
+"end": 68.405
+},
+{
+"word": "all",
+"start": 68.585,
+"end": 68.815
+},
+{
+"word": "by",
+"start": 68.815,
+"end": 68.999
+},
+{
+"word": "itself.",
+"start": 68.999,
+"end": 69.366
+}
+]
+}

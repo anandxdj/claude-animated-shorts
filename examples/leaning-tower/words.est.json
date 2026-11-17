@@ -1,0 +1,1015 @@
+{
+"note": "ESTIMATED word timings (no voice recorded yet). Replace with real STT timings, then re-time story.ts.",
+"words": [
+{
+"word": "The",
+"start": 0.25,
+"end": 0.486
+},
+{
+"word": "most",
+"start": 0.486,
+"end": 0.769
+},
+{
+"word": "famous",
+"start": 0.769,
+"end": 1.147
+},
+{
+"word": "mistake",
+"start": 1.147,
+"end": 1.571
+},
+{
+"word": "in",
+"start": 1.571,
+"end": 1.76
+},
+{
+"word": "Italy",
+"start": 1.76,
+"end": 2.09
+},
+{
+"word": "was",
+"start": 2.09,
+"end": 2.326
+},
+{
+"word": "saved",
+"start": 2.326,
+"end": 2.657
+},
+{
+"word": "by",
+"start": 2.657,
+"end": 2.845
+},
+{
+"word": "a",
+"start": 2.845,
+"end": 2.987
+},
+{
+"word": "war.",
+"start": 2.987,
+"end": 3.223
+},
+{
+"word": "It's",
+"start": 3.793,
+"end": 4.012
+},
+{
+"word": "1173,",
+"start": 4.012,
+"end": 4.274
+},
+{
+"word": "and",
+"start": 4.454,
+"end": 4.673
+},
+{
+"word": "Pisa",
+"start": 4.673,
+"end": 4.936
+},
+{
+"word": "is",
+"start": 4.936,
+"end": 5.111
+},
+{
+"word": "rich,",
+"start": 5.111,
+"end": 5.373
+},
+{
+"word": "proud,",
+"start": 5.553,
+"end": 5.86
+},
+{
+"word": "and",
+"start": 6.04,
+"end": 6.258
+},
+{
+"word": "building",
+"start": 6.258,
+"end": 6.696
+},
+{
+"word": "the",
+"start": 6.696,
+"end": 6.915
+},
+{
+"word": "most",
+"start": 6.915,
+"end": 7.177
+},
+{
+"word": "beautiful",
+"start": 7.177,
+"end": 7.659
+},
+{
+"word": "bell",
+"start": 7.659,
+"end": 7.921
+},
+{
+"word": "tower",
+"start": 7.921,
+"end": 8.227
+},
+{
+"word": "in",
+"start": 8.227,
+"end": 8.402
+},
+{
+"word": "the",
+"start": 8.402,
+"end": 8.621
+},
+{
+"word": "world.",
+"start": 8.621,
+"end": 8.928
+},
+{
+"word": "Five",
+"start": 9.498,
+"end": 9.765
+},
+{
+"word": "years",
+"start": 9.765,
+"end": 10.076
+},
+{
+"word": "in,",
+"start": 10.076,
+"end": 10.254
+},
+{
+"word": "they",
+"start": 10.434,
+"end": 10.701
+},
+{
+"word": "finish",
+"start": 10.701,
+"end": 11.058
+},
+{
+"word": "the",
+"start": 11.058,
+"end": 11.28
+},
+{
+"word": "third",
+"start": 11.28,
+"end": 11.592
+},
+{
+"word": "floor.",
+"start": 11.592,
+"end": 11.903
+},
+{
+"word": "And",
+"start": 12.323,
+"end": 12.546
+},
+{
+"word": "the",
+"start": 12.546,
+"end": 12.768
+},
+{
+"word": "tower",
+"start": 12.768,
+"end": 13.08
+},
+{
+"word": "starts",
+"start": 13.08,
+"end": 13.436
+},
+{
+"word": "to",
+"start": 13.436,
+"end": 13.614
+},
+{
+"word": "lean.",
+"start": 13.614,
+"end": 13.881
+},
+{
+"word": "The",
+"start": 14.451,
+"end": 14.669
+},
+{
+"word": "ground",
+"start": 14.669,
+"end": 15.018
+},
+{
+"word": "underneath",
+"start": 15.018,
+"end": 15.541
+},
+{
+"word": "is",
+"start": 15.541,
+"end": 15.716
+},
+{
+"word": "soft",
+"start": 15.716,
+"end": 15.977
+},
+{
+"word": "clay",
+"start": 15.977,
+"end": 16.239
+},
+{
+"word": "and",
+"start": 16.239,
+"end": 16.457
+},
+{
+"word": "sand.",
+"start": 16.457,
+"end": 16.718
+},
+{
+"word": "It's",
+"start": 17.138,
+"end": 17.356
+},
+{
+"word": "like",
+"start": 17.356,
+"end": 17.618
+},
+{
+"word": "building",
+"start": 17.618,
+"end": 18.054
+},
+{
+"word": "on",
+"start": 18.054,
+"end": 18.228
+},
+{
+"word": "a",
+"start": 18.228,
+"end": 18.359
+},
+{
+"word": "wet",
+"start": 18.359,
+"end": 18.577
+},
+{
+"word": "sponge.",
+"start": 18.577,
+"end": 18.925
+},
+{
+"word": "Then",
+"start": 19.495,
+"end": 19.76
+},
+{
+"word": "Pisa",
+"start": 19.76,
+"end": 20.024
+},
+{
+"word": "goes",
+"start": 20.024,
+"end": 20.289
+},
+{
+"word": "to",
+"start": 20.289,
+"end": 20.465
+},
+{
+"word": "war,",
+"start": 20.465,
+"end": 20.685
+},
+{
+"word": "and",
+"start": 20.865,
+"end": 21.086
+},
+{
+"word": "the",
+"start": 21.086,
+"end": 21.306
+},
+{
+"word": "builders",
+"start": 21.306,
+"end": 21.746
+},
+{
+"word": "down",
+"start": 21.746,
+"end": 22.011
+},
+{
+"word": "tools.",
+"start": 22.011,
+"end": 22.319
+},
+{
+"word": "For",
+"start": 22.739,
+"end": 22.96
+},
+{
+"word": "almost",
+"start": 22.96,
+"end": 23.312
+},
+{
+"word": "a",
+"start": 23.312,
+"end": 23.444
+},
+{
+"word": "hundred",
+"start": 23.444,
+"end": 23.841
+},
+{
+"word": "years.",
+"start": 23.841,
+"end": 24.149
+},
+{
+"word": "Luckily,",
+"start": 24.719,
+"end": 25.092
+},
+{
+"word": "that",
+"start": 25.272,
+"end": 25.52
+},
+{
+"word": "was",
+"start": 25.52,
+"end": 25.727
+},
+{
+"word": "the",
+"start": 25.727,
+"end": 25.934
+},
+{
+"word": "best",
+"start": 25.934,
+"end": 26.183
+},
+{
+"word": "thing",
+"start": 26.183,
+"end": 26.472
+},
+{
+"word": "that",
+"start": 26.472,
+"end": 26.721
+},
+{
+"word": "could",
+"start": 26.721,
+"end": 27.01
+},
+{
+"word": "have",
+"start": 27.01,
+"end": 27.259
+},
+{
+"word": "happened.",
+"start": 27.259,
+"end": 27.673
+},
+{
+"word": "Unluckily,",
+"start": 28.093,
+"end": 28.548
+},
+{
+"word": "nobody",
+"start": 28.728,
+"end": 29.059
+},
+{
+"word": "knew",
+"start": 29.059,
+"end": 29.308
+},
+{
+"word": "it",
+"start": 29.308,
+"end": 29.473
+},
+{
+"word": "at",
+"start": 29.473,
+"end": 29.639
+},
+{
+"word": "the",
+"start": 29.639,
+"end": 29.846
+},
+{
+"word": "time.",
+"start": 29.846,
+"end": 30.094
+},
+{
+"word": "While",
+"start": 30.664,
+"end": 30.965
+},
+{
+"word": "the",
+"start": 30.965,
+"end": 31.18
+},
+{
+"word": "tower",
+"start": 31.18,
+"end": 31.482
+},
+{
+"word": "sat",
+"start": 31.482,
+"end": 31.697
+},
+{
+"word": "waiting,",
+"start": 31.697,
+"end": 32.084
+},
+{
+"word": "the",
+"start": 32.264,
+"end": 32.479
+},
+{
+"word": "soil",
+"start": 32.479,
+"end": 32.738
+},
+{
+"word": "slowly",
+"start": 32.738,
+"end": 33.082
+},
+{
+"word": "squeezed",
+"start": 33.082,
+"end": 33.512
+},
+{
+"word": "out",
+"start": 33.512,
+"end": 33.728
+},
+{
+"word": "its",
+"start": 33.728,
+"end": 33.943
+},
+{
+"word": "water",
+"start": 33.943,
+"end": 34.244
+},
+{
+"word": "and",
+"start": 34.244,
+"end": 34.459
+},
+{
+"word": "got",
+"start": 34.459,
+"end": 34.674
+},
+{
+"word": "firmer.",
+"start": 34.674,
+"end": 35.019
+},
+{
+"word": "Like",
+"start": 35.439,
+"end": 35.697
+},
+{
+"word": "a",
+"start": 35.697,
+"end": 35.826
+},
+{
+"word": "mattress",
+"start": 35.826,
+"end": 36.256
+},
+{
+"word": "that's",
+"start": 36.256,
+"end": 36.558
+},
+{
+"word": "been",
+"start": 36.558,
+"end": 36.816
+},
+{
+"word": "slept",
+"start": 36.816,
+"end": 37.117
+},
+{
+"word": "on",
+"start": 37.117,
+"end": 37.289
+},
+{
+"word": "for",
+"start": 37.289,
+"end": 37.504
+},
+{
+"word": "a",
+"start": 37.504,
+"end": 37.633
+},
+{
+"word": "century.",
+"start": 37.633,
+"end": 38.021
+},
+{
+"word": "Without",
+"start": 38.591,
+"end": 38.946
+},
+{
+"word": "that",
+"start": 38.946,
+"end": 39.183
+},
+{
+"word": "break,",
+"start": 39.183,
+"end": 39.459
+},
+{
+"word": "the",
+"start": 39.639,
+"end": 39.837
+},
+{
+"word": "tower",
+"start": 39.837,
+"end": 40.113
+},
+{
+"word": "would",
+"start": 40.113,
+"end": 40.389
+},
+{
+"word": "have",
+"start": 40.389,
+"end": 40.626
+},
+{
+"word": "toppled",
+"start": 40.626,
+"end": 40.982
+},
+{
+"word": "before",
+"start": 40.982,
+"end": 41.297
+},
+{
+"word": "it",
+"start": 41.297,
+"end": 41.455
+},
+{
+"word": "was",
+"start": 41.455,
+"end": 41.653
+},
+{
+"word": "ever",
+"start": 41.653,
+"end": 41.89
+},
+{
+"word": "finished.",
+"start": 41.89,
+"end": 42.284
+},
+{
+"word": "When",
+"start": 42.854,
+"end": 43.126
+},
+{
+"word": "the",
+"start": 43.126,
+"end": 43.352
+},
+{
+"word": "builders",
+"start": 43.352,
+"end": 43.805
+},
+{
+"word": "came",
+"start": 43.805,
+"end": 44.077
+},
+{
+"word": "back,",
+"start": 44.077,
+"end": 44.349
+},
+{
+"word": "they",
+"start": 44.529,
+"end": 44.8
+},
+{
+"word": "tried",
+"start": 44.8,
+"end": 45.117
+},
+{
+"word": "to",
+"start": 45.117,
+"end": 45.298
+},
+{
+"word": "fix",
+"start": 45.298,
+"end": 45.525
+},
+{
+"word": "the",
+"start": 45.525,
+"end": 45.751
+},
+{
+"word": "lean",
+"start": 45.751,
+"end": 46.023
+},
+{
+"word": "by",
+"start": 46.023,
+"end": 46.204
+},
+{
+"word": "making",
+"start": 46.204,
+"end": 46.566
+},
+{
+"word": "the",
+"start": 46.566,
+"end": 46.793
+},
+{
+"word": "new",
+"start": 46.793,
+"end": 47.019
+},
+{
+"word": "floors",
+"start": 47.019,
+"end": 47.381
+},
+{
+"word": "taller",
+"start": 47.381,
+"end": 47.744
+},
+{
+"word": "on",
+"start": 47.744,
+"end": 47.925
+},
+{
+"word": "the",
+"start": 47.925,
+"end": 48.151
+},
+{
+"word": "short",
+"start": 48.151,
+"end": 48.468
+},
+{
+"word": "side.",
+"start": 48.468,
+"end": 48.74
+},
+{
+"word": "So",
+"start": 49.16,
+"end": 49.341
+},
+{
+"word": "the",
+"start": 49.341,
+"end": 49.567
+},
+{
+"word": "tower",
+"start": 49.567,
+"end": 49.884
+},
+{
+"word": "isn't",
+"start": 49.884,
+"end": 50.156
+},
+{
+"word": "just",
+"start": 50.156,
+"end": 50.428
+},
+{
+"word": "leaning.",
+"start": 50.428,
+"end": 50.835
+},
+{
+"word": "It's",
+"start": 51.255,
+"end": 51.482
+},
+{
+"word": "bent,",
+"start": 51.482,
+"end": 51.753
+},
+{
+"word": "like",
+"start": 51.933,
+"end": 52.205
+},
+{
+"word": "a",
+"start": 52.205,
+"end": 52.341
+},
+{
+"word": "banana.",
+"start": 52.341,
+"end": 52.703
+},
+{
+"word": "By",
+"start": 53.273,
+"end": 53.438
+},
+{
+"word": "1990",
+"start": 53.438,
+"end": 53.687
+},
+{
+"word": "it",
+"start": 53.687,
+"end": 53.852
+},
+{
+"word": "was",
+"start": 53.852,
+"end": 54.059
+},
+{
+"word": "leaning",
+"start": 54.059,
+"end": 54.431
+},
+{
+"word": "so",
+"start": 54.431,
+"end": 54.597
+},
+{
+"word": "far",
+"start": 54.597,
+"end": 54.804
+},
+{
+"word": "that",
+"start": 54.804,
+"end": 55.052
+},
+{
+"word": "they",
+"start": 55.052,
+"end": 55.3
+},
+{
+"word": "shut",
+"start": 55.3,
+"end": 55.548
+},
+{
+"word": "it.",
+"start": 55.548,
+"end": 55.714
+},
+{
+"word": "Engineers",
+"start": 56.134,
+"end": 56.589
+},
+{
+"word": "spent",
+"start": 56.589,
+"end": 56.878
+},
+{
+"word": "eleven",
+"start": 56.878,
+"end": 57.209
+},
+{
+"word": "years",
+"start": 57.209,
+"end": 57.499
+},
+{
+"word": "pulling",
+"start": 57.499,
+"end": 57.871
+},
+{
+"word": "soil",
+"start": 57.871,
+"end": 58.119
+},
+{
+"word": "out",
+"start": 58.119,
+"end": 58.326
+},
+{
+"word": "from",
+"start": 58.326,
+"end": 58.574
+},
+{
+"word": "under",
+"start": 58.574,
+"end": 58.864
+},
+{
+"word": "the",
+"start": 58.864,
+"end": 59.071
+},
+{
+"word": "high",
+"start": 59.071,
+"end": 59.319
+},
+{
+"word": "side,",
+"start": 59.319,
+"end": 59.567
+},
+{
+"word": "until",
+"start": 59.747,
+"end": 60.037
+},
+{
+"word": "it",
+"start": 60.037,
+"end": 60.202
+},
+{
+"word": "sank",
+"start": 60.202,
+"end": 60.45
+},
+{
+"word": "back",
+"start": 60.45,
+"end": 60.699
+},
+{
+"word": "about",
+"start": 60.699,
+"end": 60.988
+},
+{
+"word": "forty-five",
+"start": 60.988,
+"end": 61.443
+},
+{
+"word": "centimetres.",
+"start": 61.443,
+"end": 61.981
+},
+{
+"word": "Not",
+"start": 62.551,
+"end": 62.768
+},
+{
+"word": "straight,",
+"start": 62.768,
+"end": 63.202
+},
+{
+"word": "of",
+"start": 63.382,
+"end": 63.555
+},
+{
+"word": "course.",
+"start": 63.555,
+"end": 63.902
+},
+{
+"word": "Nobody",
+"start": 64.322,
+"end": 64.669
+},
+{
+"word": "comes",
+"start": 64.669,
+"end": 64.973
+},
+{
+"word": "to",
+"start": 64.973,
+"end": 65.146
+},
+{
+"word": "Pisa",
+"start": 65.146,
+"end": 65.407
+},
+{
+"word": "to",
+"start": 65.407,
+"end": 65.58
+},
+{
+"word": "see",
+"start": 65.58,
+"end": 65.797
+},
+{
+"word": "a",
+"start": 65.797,
+"end": 65.927
+},
+{
+"word": "straight",
+"start": 65.927,
+"end": 66.361
+},
+{
+"word": "tower.",
+"start": 66.361,
+"end": 66.665
+}
+]
+}

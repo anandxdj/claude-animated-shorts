@@ -1,0 +1,20 @@
+// The Tower That Was Saved by a War: SHOTS for story.ts (generated from the estimated word timings; re-time after recording)
+export const TOTAL = 2044;
+export const SHOTS: ShotDef[] = [
+  { id: 1, a: 0, b: 110, light: "day", crowd: "crowd", tau: (t) => t }, // Hook
+  { id: 2, a: 110, b: 199, light: "golden", crowd: "builders", tau: (t) => t }, // Setting
+  { id: 3, a: 199, b: 281, light: "golden", crowd: "builders", tau: (t) => t }, // Setting
+  { id: 4, a: 281, b: 430, light: "golden", crowd: "builders", tau: (t) => t }, // Action
+  { id: 5, a: 430, b: 581, light: "golden", crowd: "none", tau: (t) => t }, // Action
+  { id: 6, a: 581, b: 658, light: "golden", crowd: "builders", tau: (t) => t }, // Action
+  { id: 7, a: 658, b: 738, light: "golden", crowd: "none", tau: (t) => t }, // Action
+  { id: 8, a: 738, b: 816, light: "golden", crowd: "none", tau: (t) => t }, // Double
+  { id: 9, a: 816, b: 916, light: "golden", crowd: "builders", tau: (t) => t }, // Double
+  { id: 10, a: 916, b: 1154, light: "golden", crowd: "none", tau: (t) => t }, // Explain
+  { id: 11, a: 1154, b: 1282, light: "golden", crowd: "none", tau: (t) => t }, // Snap
+  { id: 12, a: 1282, b: 1436, light: "golden", crowd: "builders", tau: (t) => t }, // Action
+  { id: 13, a: 1436, b: 1595, light: "golden", crowd: "none", tau: (t) => t }, // Action
+  { id: 14, a: 1595, b: 1734, light: "day", crowd: "none", tau: (t) => t }, // Consequence
+  { id: 15, a: 1734, b: 1873, light: "day", crowd: "none", tau: (t) => t }, // Consequence
+  { id: 16, a: 1873, b: 2044, light: "day", crowd: "crowd", tau: (t) => t }, // Callback
+];

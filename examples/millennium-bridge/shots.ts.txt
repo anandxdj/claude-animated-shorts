@@ -1,0 +1,21 @@
+// The Bridge That Taught a Crowd to March: SHOTS for story.ts (generated from the estimated word timings; re-time after recording)
+export const TOTAL = 2125;
+export const SHOTS: ShotDef[] = [
+  { id: 1, a: 0, b: 178, light: "day", crowd: "crowd", tau: (t) => t }, // Hook
+  { id: 2, a: 178, b: 276, light: "day", crowd: "none", tau: (t) => t }, // Setting
+  { id: 3, a: 276, b: 383, light: "day", crowd: "none", tau: (t) => t }, // Setting
+  { id: 4, a: 383, b: 473, light: "day", crowd: "crowd", tau: (t) => t }, // Setting
+  { id: 5, a: 473, b: 634, light: "day", crowd: "crowd", tau: (t) => t }, // Action
+  { id: 6, a: 634, b: 807, light: "day", crowd: "crowd", tau: (t) => t }, // Action
+  { id: 7, a: 807, b: 942, light: "day", crowd: "crowd", tau: (t) => t }, // Action
+  { id: 8, a: 942, b: 1076, light: "day", crowd: "crowd", tau: (t) => t }, // Snap
+  { id: 9, a: 1076, b: 1148, light: "day", crowd: "crowd", tau: (t) => t }, // Double
+  { id: 10, a: 1148, b: 1222, light: "day", crowd: "none", tau: (t) => t }, // Double
+  { id: 11, a: 1222, b: 1361, light: "golden", crowd: "none", tau: (t) => t }, // Explain
+  { id: 12, a: 1361, b: 1513, light: "golden", crowd: "park", tau: (t) => t }, // Explain
+  { id: 13, a: 1513, b: 1632, light: "golden", crowd: "crowd", tau: (t) => t }, // Explain
+  { id: 14, a: 1632, b: 1734, light: "day", crowd: "none", tau: (t) => t }, // Consequence
+  { id: 15, a: 1734, b: 1838, light: "day", crowd: "none", tau: (t) => t }, // Consequence
+  { id: 16, a: 1838, b: 1974, light: "golden", crowd: "march", tau: (t) => t }, // Callback
+  { id: 17, a: 1974, b: 2125, light: "day", crowd: "crowd", tau: (t) => t }, // Callback
+];

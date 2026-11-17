@@ -1,0 +1,20 @@
+// The Day It Rained Whale: SHOTS for story.ts (generated from the estimated word timings; re-time after recording)
+export const TOTAL = 2077;
+export const SHOTS: ShotDef[] = [
+  { id: 1, a: 0, b: 185, light: "day", crowd: "crowd", tau: (t) => t }, // Hook
+  { id: 2, a: 185, b: 279, light: "day", crowd: "none", tau: (t) => t }, // Setting
+  { id: 3, a: 279, b: 396, light: "day", crowd: "crowd", tau: (t) => t }, // Setting
+  { id: 4, a: 396, b: 480, light: "day", crowd: "none", tau: (t) => t }, // Setting
+  { id: 5, a: 480, b: 561, light: "day", crowd: "crowd", tau: (t) => t }, // Setting
+  { id: 6, a: 561, b: 787, light: "day", crowd: "none", tau: (t) => t }, // Action
+  { id: 7, a: 787, b: 951, light: "day", crowd: "crowd", tau: (t) => t }, // Action
+  { id: 8, a: 951, b: 976, light: "day", crowd: "none", tau: (t) => t }, // Snap
+  { id: 9, a: 976, b: 1027, light: "day", crowd: "crowd", tau: (t) => t }, // Double
+  { id: 10, a: 1027, b: 1081, light: "day", crowd: "crowd", tau: (t) => t }, // Double
+  { id: 11, a: 1081, b: 1192, light: "day", crowd: "none", tau: (t) => t }, // Action
+  { id: 12, a: 1192, b: 1303, light: "day", crowd: "none", tau: (t) => t }, // Action
+  { id: 13, a: 1303, b: 1454, light: "golden", crowd: "none", tau: (t) => t }, // Explain
+  { id: 14, a: 1454, b: 1619, light: "golden", crowd: "park", tau: (t) => t }, // Explain
+  { id: 15, a: 1619, b: 1845, light: "day", crowd: "none", tau: (t) => t }, // Consequence
+  { id: 16, a: 1845, b: 2077, light: "golden", crowd: "crowd", tau: (t) => t }, // Callback
+];
