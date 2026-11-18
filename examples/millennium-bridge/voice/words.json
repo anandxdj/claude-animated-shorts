@@ -2,26 +2,26 @@
 {
 "word": "London",
 "start": 0.0,
-"end": 0.5
+"end": 0.48
 },
 {
 "word": "built",
-"start": 0.5,
-"end": 0.8
+"start": 0.48,
+"end": 0.74
 },
 {
 "word": "a",
-"start": 0.8,
-"end": 0.98
+"start": 0.74,
+"end": 0.9
 },
 {
 "word": "brand",
-"start": 0.98,
-"end": 1.2
+"start": 0.9,
+"end": 1.14
 },
 {
 "word": "new",
-"start": 1.2,
+"start": 1.14,
 "end": 1.46
 },
 {
@@ -31,168 +31,168 @@
 },
 {
 "word": "and",
-"start": 2.06,
-"end": 2.12
+"start": 2.18,
+"end": 2.24
 },
 {
 "word": "on",
-"start": 2.12,
-"end": 2.28
+"start": 2.24,
+"end": 2.34
 },
 {
 "word": "its",
-"start": 2.28,
-"end": 2.46
+"start": 2.34,
+"end": 2.5
 },
 {
 "word": "very",
-"start": 2.46,
-"end": 2.72
+"start": 2.5,
+"end": 2.76
 },
 {
 "word": "first",
-"start": 2.72,
-"end": 3.02
+"start": 2.76,
+"end": 3.06
 },
 {
 "word": "day,",
-"start": 3.02,
-"end": 3.32
+"start": 3.06,
+"end": 3.38
 },
 {
 "word": "the",
-"start": 3.56,
-"end": 3.66
+"start": 3.68,
+"end": 3.74
 },
 {
 "word": "crowd",
-"start": 3.66,
-"end": 3.88
+"start": 3.74,
+"end": 3.96
 },
 {
 "word": "taught",
-"start": 3.88,
-"end": 4.16
+"start": 3.96,
+"end": 4.22
 },
 {
 "word": "it",
-"start": 4.16,
-"end": 4.32
+"start": 4.22,
+"end": 4.4
 },
 {
 "word": "to",
-"start": 4.32,
-"end": 4.46
+"start": 4.4,
+"end": 4.54
 },
 {
 "word": "dance.",
-"start": 4.46,
-"end": 4.78
+"start": 4.54,
+"end": 4.82
 },
 {
 "word": "It's",
-"start": 5.44,
-"end": 5.74
+"start": 5.4,
+"end": 5.62
 },
 {
 "word": "June",
-"start": 5.74,
-"end": 5.86
+"start": 5.62,
+"end": 5.8
 },
 {
 "word": "2000.",
-"start": 5.86,
-"end": 6.46
+"start": 5.8,
+"end": 6.4
 },
 {
 "word": "The",
-"start": 6.7,
-"end": 6.78
-},
-{
-"word": "first",
-"start": 6.78,
+"start": 6.9,
 "end": 7.04
 },
 {
-"word": "new",
+"word": "first",
 "start": 7.04,
-"end": 7.3
+"end": 7.24
+},
+{
+"word": "new",
+"start": 7.24,
+"end": 7.5
 },
 {
 "word": "bridge",
-"start": 7.3,
-"end": 7.56
+"start": 7.5,
+"end": 7.74
 },
 {
 "word": "in",
-"start": 7.56,
-"end": 7.84
+"start": 7.74,
+"end": 8.0
 },
 {
 "word": "central",
-"start": 7.84,
-"end": 8.18
+"start": 8.0,
+"end": 8.32
 },
 {
 "word": "London",
-"start": 8.18,
-"end": 8.46
+"start": 8.32,
+"end": 8.58
 },
 {
 "word": "in",
-"start": 8.46,
-"end": 8.72
+"start": 8.58,
+"end": 8.92
 },
 {
 "word": "over",
-"start": 8.72,
-"end": 8.96
+"start": 8.92,
+"end": 9.2
 },
 {
 "word": "a",
-"start": 8.96,
-"end": 9.18
+"start": 9.2,
+"end": 9.36
 },
 {
 "word": "century,",
-"start": 9.18,
-"end": 9.58
+"start": 9.36,
+"end": 9.7
 },
 {
 "word": "a",
-"start": 9.88,
-"end": 9.98
+"start": 10.12,
+"end": 10.22
 },
 {
 "word": "thin",
-"start": 9.98,
-"end": 10.2
+"start": 10.22,
+"end": 10.42
 },
 {
 "word": "steel",
-"start": 10.2,
-"end": 10.58
+"start": 10.42,
+"end": 10.82
 },
 {
 "word": "blade",
-"start": 10.58,
-"end": 10.88
-},
-{
-"word": "across",
-"start": 10.88,
+"start": 10.82,
 "end": 11.16
 },
 {
-"word": "the",
+"word": "across",
 "start": 11.16,
-"end": 11.42
+"end": 11.44
+},
+{
+"word": "the",
+"start": 11.44,
+"end": 11.66
 },
 {
 "word": "river.",
-"start": 11.42,
-"end": 11.66
+"start": 11.66,
+"end": 11.86
 },
 {
 "word": "Ninety",
@@ -202,426 +202,426 @@
 {
 "word": "thousand",
 "start": 12.62,
-"end": 13.04
+"end": 12.96
 },
 {
 "word": "people",
-"start": 13.04,
-"end": 13.28
+"start": 12.96,
+"end": 13.38
 },
 {
 "word": "turn",
-"start": 13.28,
-"end": 13.62
+"start": 13.38,
+"end": 13.8
 },
 {
 "word": "up",
-"start": 13.62,
-"end": 13.82
+"start": 13.8,
+"end": 13.98
 },
 {
 "word": "to",
-"start": 13.82,
-"end": 13.96
+"start": 13.98,
+"end": 14.16
 },
 {
 "word": "walk",
-"start": 13.96,
-"end": 14.14
+"start": 14.16,
+"end": 14.34
 },
 {
 "word": "across",
-"start": 14.14,
-"end": 14.46
+"start": 14.34,
+"end": 14.6
 },
 {
 "word": "it.",
-"start": 14.46,
-"end": 14.8
+"start": 14.6,
+"end": 14.94
 },
 {
 "word": "A",
-"start": 15.22,
-"end": 15.46
+"start": 15.24,
+"end": 15.42
 },
 {
 "word": "few",
-"start": 15.46,
-"end": 15.66
+"start": 15.42,
+"end": 15.56
 },
 {
 "word": "minutes",
-"start": 15.66,
-"end": 15.92
+"start": 15.56,
+"end": 15.76
 },
 {
 "word": "in,",
-"start": 15.92,
-"end": 16.3
+"start": 15.76,
+"end": 16.08
 },
 {
 "word": "the",
-"start": 16.6,
-"end": 16.74
+"start": 16.28,
+"end": 16.4
 },
 {
 "word": "deck",
-"start": 16.74,
-"end": 16.9
+"start": 16.4,
+"end": 16.6
 },
 {
 "word": "starts",
-"start": 16.9,
-"end": 17.2
+"start": 16.6,
+"end": 16.96
 },
 {
 "word": "to",
-"start": 17.2,
-"end": 17.48
+"start": 16.96,
+"end": 17.26
 },
 {
 "word": "wiggle.",
-"start": 17.48,
-"end": 17.7
+"start": 17.26,
+"end": 17.48
 },
 {
 "word": "Not",
-"start": 17.84,
-"end": 17.96
+"start": 17.96,
+"end": 18.1
 },
 {
 "word": "up",
-"start": 17.96,
-"end": 18.12
+"start": 18.1,
+"end": 18.32
 },
 {
 "word": "and",
-"start": 18.12,
-"end": 18.34
+"start": 18.32,
+"end": 18.52
 },
 {
 "word": "down.",
-"start": 18.34,
-"end": 18.64
+"start": 18.52,
+"end": 18.84
 },
 {
 "word": "Sideways.",
-"start": 19.3,
-"end": 19.3
+"start": 19.1,
+"end": 19.52
 },
 {
 "word": "So",
-"start": 20.12,
-"end": 20.34
+"start": 20.08,
+"end": 20.28
 },
 {
 "word": "everybody",
-"start": 20.34,
-"end": 20.62
+"start": 20.28,
+"end": 20.6
 },
 {
 "word": "does",
-"start": 20.62,
-"end": 21.0
+"start": 20.6,
+"end": 20.92
 },
 {
 "word": "what",
-"start": 21.0,
-"end": 21.22
+"start": 20.92,
+"end": 21.14
 },
 {
 "word": "you'd",
-"start": 21.22,
-"end": 21.38
+"start": 21.14,
+"end": 21.32
 },
 {
 "word": "do",
-"start": 21.38,
-"end": 21.56
+"start": 21.32,
+"end": 21.5
 },
 {
 "word": "on",
-"start": 21.56,
-"end": 21.74
+"start": 21.5,
+"end": 21.64
 },
 {
 "word": "a",
-"start": 21.74,
-"end": 21.9
+"start": 21.64,
+"end": 21.78
 },
 {
 "word": "wobbly",
-"start": 21.9,
-"end": 22.24
+"start": 21.78,
+"end": 22.04
 },
 {
 "word": "boat.",
-"start": 22.24,
-"end": 22.5
+"start": 22.04,
+"end": 22.34
 },
 {
 "word": "Feet",
-"start": 22.64,
-"end": 22.76
+"start": 22.72,
+"end": 22.94
 },
 {
 "word": "wider,",
-"start": 22.76,
-"end": 23.06
+"start": 22.94,
+"end": 23.32
 },
 {
 "word": "and",
-"start": 23.28,
-"end": 23.4
+"start": 23.32,
+"end": 23.76
 },
 {
 "word": "sway",
-"start": 23.4,
-"end": 23.68
-},
-{
-"word": "along",
-"start": 23.68,
+"start": 23.76,
 "end": 24.0
 },
 {
-"word": "with",
+"word": "along",
 "start": 24.0,
-"end": 24.24
+"end": 24.26
+},
+{
+"word": "with",
+"start": 24.26,
+"end": 24.48
 },
 {
 "word": "it.",
-"start": 24.24,
-"end": 24.54
+"start": 24.48,
+"end": 24.76
 },
 {
 "word": "Which",
 "start": 24.96,
-"end": 25.22
+"end": 25.16
 },
 {
 "word": "pushes",
-"start": 25.22,
-"end": 25.58
+"start": 25.16,
+"end": 25.42
 },
 {
 "word": "the",
-"start": 25.58,
-"end": 25.8
+"start": 25.42,
+"end": 25.68
 },
 {
 "word": "bridge",
-"start": 25.8,
-"end": 25.98
+"start": 25.68,
+"end": 25.88
 },
 {
 "word": "a",
-"start": 25.98,
-"end": 26.12
+"start": 25.88,
+"end": 26.0
 },
 {
 "word": "little",
-"start": 26.12,
-"end": 26.22
+"start": 26.0,
+"end": 26.14
 },
 {
 "word": "further.",
-"start": 26.22,
-"end": 26.56
+"start": 26.14,
+"end": 26.44
 },
 {
 "word": "So",
-"start": 26.7,
-"end": 26.9
+"start": 26.84,
+"end": 26.94
 },
 {
 "word": "they",
-"start": 26.9,
+"start": 26.94,
 "end": 27.08
 },
 {
 "word": "sway",
 "start": 27.08,
-"end": 27.3
+"end": 27.28
 },
 {
 "word": "a",
-"start": 27.3,
-"end": 27.44
+"start": 27.28,
+"end": 27.46
 },
 {
 "word": "little",
-"start": 27.44,
+"start": 27.46,
 "end": 27.58
 },
 {
 "word": "harder.",
 "start": 27.58,
-"end": 27.94
+"end": 28.0
 },
 {
 "word": "Two",
-"start": 28.7,
-"end": 28.94
+"start": 28.6,
+"end": 28.76
 },
 {
 "word": "thousand",
-"start": 28.94,
-"end": 29.18
+"start": 28.76,
+"end": 29.1
 },
 {
 "word": "strangers,",
-"start": 29.18,
+"start": 29.1,
 "end": 29.66
 },
 {
 "word": "who",
-"start": 29.9,
-"end": 30.04
-},
-{
-"word": "have",
-"start": 30.04,
+"start": 29.88,
 "end": 30.24
 },
 {
-"word": "never",
+"word": "have",
 "start": 30.24,
-"end": 30.54
+"end": 30.36
+},
+{
+"word": "never",
+"start": 30.36,
+"end": 30.6
 },
 {
 "word": "met,",
-"start": 30.54,
-"end": 30.84
+"start": 30.6,
+"end": 30.9
 },
 {
 "word": "are",
-"start": 31.1,
-"end": 31.22
+"start": 31.24,
+"end": 31.38
 },
 {
 "word": "now",
-"start": 31.22,
-"end": 31.46
+"start": 31.38,
+"end": 31.58
 },
 {
 "word": "swaying",
-"start": 31.46,
-"end": 32.04
+"start": 31.58,
+"end": 32.16
 },
 {
 "word": "in",
-"start": 32.04,
-"end": 32.18
+"start": 32.16,
+"end": 32.34
 },
 {
 "word": "perfect",
-"start": 32.18,
-"end": 32.5
+"start": 32.34,
+"end": 32.68
 },
 {
 "word": "step.",
-"start": 32.5,
-"end": 32.96
+"start": 32.68,
+"end": 33.1
 },
 {
 "word": "Luckily,",
-"start": 33.62,
-"end": 33.9
+"start": 33.52,
+"end": 33.84
 },
 {
 "word": "nobody",
-"start": 34.2,
-"end": 34.46
+"start": 34.08,
+"end": 34.3
 },
 {
 "word": "fell",
-"start": 34.46,
-"end": 34.82
+"start": 34.3,
+"end": 34.62
 },
 {
 "word": "in.",
-"start": 34.82,
-"end": 35.14
+"start": 34.62,
+"end": 34.92
 },
 {
 "word": "Unluckily,",
-"start": 35.26,
-"end": 35.74
+"start": 35.3,
+"end": 35.72
 },
 {
 "word": "the",
-"start": 35.96,
-"end": 36.04
+"start": 36.04,
+"end": 36.1
 },
 {
 "word": "whole",
-"start": 36.04,
-"end": 36.28
+"start": 36.1,
+"end": 36.32
 },
 {
 "word": "world",
-"start": 36.28,
-"end": 36.54
+"start": 36.32,
+"end": 36.58
 },
 {
 "word": "watched",
-"start": 36.54,
-"end": 36.88
+"start": 36.58,
+"end": 36.9
 },
 {
 "word": "it",
-"start": 36.88,
-"end": 37.06
+"start": 36.9,
+"end": 37.1
 },
 {
 "word": "on",
-"start": 37.06,
-"end": 37.18
+"start": 37.1,
+"end": 37.24
 },
 {
 "word": "the",
-"start": 37.18,
-"end": 37.3
+"start": 37.24,
+"end": 37.36
 },
 {
 "word": "news.",
-"start": 37.3,
-"end": 37.6
+"start": 37.36,
+"end": 37.7
 },
 {
 "word": "Every",
-"start": 38.26,
-"end": 38.48
+"start": 38.22,
+"end": 38.44
 },
 {
 "word": "bridge",
-"start": 38.48,
+"start": 38.44,
 "end": 38.72
 },
 {
 "word": "has",
 "start": 38.72,
-"end": 38.94
+"end": 38.98
 },
 {
 "word": "a",
-"start": 38.94,
-"end": 39.06
+"start": 38.98,
+"end": 39.1
 },
 {
 "word": "rhythm",
-"start": 39.06,
-"end": 39.24
+"start": 39.1,
+"end": 39.26
 },
 {
 "word": "it",
-"start": 39.24,
-"end": 39.44
+"start": 39.26,
+"end": 39.46
 },
 {
 "word": "likes",
-"start": 39.44,
+"start": 39.46,
 "end": 39.64
 },
 {
@@ -632,406 +632,406 @@
 {
 "word": "sway",
 "start": 39.88,
-"end": 40.1
+"end": 40.06
 },
 {
 "word": "at.",
-"start": 40.1,
+"start": 40.06,
 "end": 40.34
 },
 {
 "word": "Ever",
-"start": 40.38,
-"end": 40.54
+"start": 40.6,
+"end": 40.8
 },
 {
 "word": "been",
-"start": 40.54,
-"end": 40.78
+"start": 40.8,
+"end": 41.0
 },
 {
 "word": "on",
-"start": 40.78,
-"end": 40.92
+"start": 41.0,
+"end": 41.12
 },
 {
 "word": "a",
-"start": 40.92,
-"end": 41.04
+"start": 41.12,
+"end": 41.24
 },
 {
 "word": "bouncy",
-"start": 41.04,
-"end": 41.44
+"start": 41.24,
+"end": 41.52
 },
 {
 "word": "castle",
-"start": 41.44,
-"end": 41.74
+"start": 41.52,
+"end": 41.82
 },
 {
 "word": "when",
-"start": 41.74,
+"start": 41.82,
 "end": 42.04
 },
 {
 "word": "everyone",
 "start": 42.04,
-"end": 42.44
+"end": 42.32
 },
 {
 "word": "starts",
-"start": 42.44,
-"end": 42.84
+"start": 42.32,
+"end": 42.7
 },
 {
 "word": "jumping?",
-"start": 42.84,
-"end": 43.28
+"start": 42.7,
+"end": 43.12
 },
 {
 "word": "Nobody",
-"start": 43.44,
-"end": 43.68
+"start": 43.56,
+"end": 43.8
 },
 {
 "word": "planned",
-"start": 43.68,
+"start": 43.8,
 "end": 44.1
 },
 {
 "word": "it,",
 "start": 44.1,
-"end": 44.34
+"end": 44.38
 },
 {
 "word": "but",
-"start": 44.42,
-"end": 44.58
+"start": 44.56,
+"end": 44.66
 },
 {
 "word": "you",
-"start": 44.58,
-"end": 44.7
+"start": 44.66,
+"end": 44.76
 },
 {
 "word": "all",
-"start": 44.7,
-"end": 44.94
+"start": 44.76,
+"end": 44.96
 },
 {
 "word": "end",
-"start": 44.94,
-"end": 45.18
+"start": 44.96,
+"end": 45.16
 },
 {
 "word": "up",
-"start": 45.18,
-"end": 45.4
+"start": 45.16,
+"end": 45.38
 },
 {
 "word": "bouncing",
-"start": 45.4,
-"end": 45.7
+"start": 45.38,
+"end": 45.68
 },
 {
 "word": "together.",
-"start": 45.7,
-"end": 46.12
+"start": 45.68,
+"end": 46.08
 },
 {
 "word": "The",
-"start": 46.78,
-"end": 46.92
+"start": 46.7,
+"end": 46.88
 },
 {
 "word": "bridge",
-"start": 46.92,
-"end": 47.14
+"start": 46.88,
+"end": 47.1
 },
 {
 "word": "nudged",
-"start": 47.14,
-"end": 47.48
+"start": 47.1,
+"end": 47.46
 },
 {
 "word": "the",
-"start": 47.48,
+"start": 47.46,
 "end": 47.62
 },
 {
 "word": "crowd,",
 "start": 47.62,
-"end": 47.9
+"end": 47.88
 },
 {
 "word": "and",
-"start": 48.1,
-"end": 48.22
+"start": 48.14,
+"end": 48.26
 },
 {
 "word": "the",
-"start": 48.22,
-"end": 48.34
+"start": 48.26,
+"end": 48.38
 },
 {
 "word": "crowd",
-"start": 48.34,
+"start": 48.38,
 "end": 48.58
 },
 {
 "word": "nudged",
 "start": 48.58,
-"end": 48.94
+"end": 48.86
 },
 {
 "word": "it",
-"start": 48.94,
-"end": 49.06
+"start": 48.86,
+"end": 48.98
 },
 {
 "word": "right",
-"start": 49.06,
-"end": 49.22
+"start": 48.98,
+"end": 49.12
 },
 {
 "word": "back.",
-"start": 49.22,
-"end": 49.52
+"start": 49.12,
+"end": 49.38
 },
 {
 "word": "Two",
 "start": 50.1,
-"end": 50.32
+"end": 50.26
 },
 {
 "word": "days",
-"start": 50.32,
-"end": 50.54
+"start": 50.26,
+"end": 50.44
 },
 {
 "word": "later,",
-"start": 50.54,
-"end": 51.02
+"start": 50.44,
+"end": 50.86
 },
 {
 "word": "they",
-"start": 51.24,
-"end": 51.42
+"start": 51.04,
+"end": 51.24
 },
 {
 "word": "shut",
-"start": 51.42,
-"end": 51.62
+"start": 51.24,
+"end": 51.44
 },
 {
 "word": "it.",
-"start": 51.62,
-"end": 51.78
+"start": 51.44,
+"end": 51.62
 },
 {
 "word": "It",
-"start": 51.84,
-"end": 51.94
+"start": 51.98,
+"end": 52.08
 },
 {
 "word": "took",
-"start": 51.94,
-"end": 52.12
+"start": 52.08,
+"end": 52.2
 },
 {
 "word": "two",
-"start": 52.12,
-"end": 52.38
+"start": 52.2,
+"end": 52.48
 },
 {
 "word": "years",
-"start": 52.38,
-"end": 52.62
+"start": 52.48,
+"end": 52.8
 },
 {
 "word": "and",
-"start": 52.62,
-"end": 52.94
+"start": 52.8,
+"end": 53.18
 },
 {
 "word": "five",
-"start": 52.94,
-"end": 53.2
+"start": 53.18,
+"end": 53.4
 },
 {
 "word": "million",
-"start": 53.2,
-"end": 53.56
+"start": 53.4,
+"end": 53.74
 },
 {
 "word": "pounds",
-"start": 53.56,
-"end": 53.86
+"start": 53.74,
+"end": 54.06
 },
 {
 "word": "of",
-"start": 53.86,
-"end": 54.1
+"start": 54.06,
+"end": 54.38
 },
 {
 "word": "shock",
-"start": 54.1,
-"end": 54.32
+"start": 54.38,
+"end": 54.48
 },
 {
 "word": "absorbers",
-"start": 54.32,
-"end": 54.82
+"start": 54.48,
+"end": 54.98
 },
 {
 "word": "to",
-"start": 54.82,
-"end": 55.08
+"start": 54.98,
+"end": 55.18
 },
 {
 "word": "calm",
-"start": 55.08,
-"end": 55.26
+"start": 55.18,
+"end": 55.38
 },
 {
 "word": "it",
-"start": 55.26,
-"end": 55.42
+"start": 55.38,
+"end": 55.52
 },
 {
 "word": "down.",
-"start": 55.42,
-"end": 55.7
+"start": 55.52,
+"end": 55.92
 },
 {
 "word": "Back",
-"start": 56.31,
-"end": 56.48
+"start": 56.4,
+"end": 56.4
 },
 {
 "word": "in",
-"start": 56.48,
-"end": 56.7
+"start": 56.4,
+"end": 56.56
 },
 {
 "word": "1831,",
-"start": 56.7,
-"end": 58.3
+"start": 56.56,
+"end": 58.2
 },
 {
 "word": "the",
-"start": 58.8,
-"end": 58.82
+"start": 58.66,
+"end": 58.68
 },
 {
 "word": "army",
-"start": 58.82,
-"end": 59.12
+"start": 58.68,
+"end": 58.9
 },
 {
 "word": "banned",
-"start": 59.12,
-"end": 59.4
+"start": 58.9,
+"end": 59.24
 },
 {
 "word": "marching",
-"start": 59.4,
-"end": 59.8
+"start": 59.24,
+"end": 59.56
 },
 {
 "word": "in",
-"start": 59.8,
-"end": 60.04
+"start": 59.56,
+"end": 59.78
 },
 {
 "word": "step",
-"start": 60.04,
-"end": 60.28
+"start": 59.78,
+"end": 59.98
 },
 {
 "word": "on",
-"start": 60.28,
-"end": 60.5
+"start": 59.98,
+"end": 60.2
 },
 {
 "word": "bridges.",
-"start": 60.5,
-"end": 60.84
+"start": 60.2,
+"end": 60.44
 },
 {
 "word": "In",
-"start": 61.04,
-"end": 61.14
+"start": 61.16,
+"end": 61.26
 },
 {
 "word": "2000,",
-"start": 61.14,
+"start": 61.26,
 "end": 61.64
 },
 {
 "word": "a",
-"start": 62.12,
-"end": 62.12
+"start": 62.16,
+"end": 62.2
 },
 {
 "word": "bridge",
-"start": 62.12,
-"end": 62.3
+"start": 62.2,
+"end": 62.4
 },
 {
 "word": "made",
-"start": 62.3,
-"end": 62.54
+"start": 62.4,
+"end": 62.64
 },
 {
 "word": "a",
-"start": 62.54,
-"end": 62.68
+"start": 62.64,
+"end": 62.78
 },
 {
 "word": "crowd",
-"start": 62.68,
-"end": 62.86
+"start": 62.78,
+"end": 62.94
 },
 {
 "word": "of",
-"start": 62.86,
-"end": 63.02
+"start": 62.94,
+"end": 63.14
 },
 {
 "word": "tourists",
-"start": 63.02,
-"end": 63.4
+"start": 63.14,
+"end": 63.46
 },
 {
 "word": "march",
-"start": 63.4,
-"end": 63.76
+"start": 63.46,
+"end": 63.74
 },
 {
 "word": "in",
-"start": 63.76,
-"end": 64.0
+"start": 63.74,
+"end": 63.96
 },
 {
 "word": "step,",
-"start": 64.0,
-"end": 64.28
+"start": 63.96,
+"end": 64.26
 },
 {
 "word": "all",
-"start": 64.46,
-"end": 64.68
+"start": 64.4,
+"end": 64.7
 },
 {
 "word": "by",
-"start": 64.68,
-"end": 64.88
+"start": 64.7,
+"end": 64.9
 },
 {
 "word": "itself.",
-"start": 64.88,
+"start": 64.9,
 "end": 65.22
 }
 ]

@@ -195,7 +195,8 @@ for k, t in enumerate(DAMPERS):
 
 # ---------------- mix ----------------
 vx, vsr = read_wav(os.path.join(HERE, "../voice/voice.wav"))
-v = signal.resample_poly(vx[0], 160, 147)  # 22.05 kHz -> 48 kHz
+from math import gcd
+g_ = gcd(48000, vsr); v = signal.resample_poly(vx[0], 48000 // g_, vsr // g_)  # voice rate -> 48 kHz
 voice = np.zeros(N); voice[: min(N, len(v))] = v[:N]
 voice = st(voice)
 # key: duck the music 6 dB while a word is spoken (smoothed)

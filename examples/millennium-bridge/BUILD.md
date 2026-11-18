@@ -5,9 +5,11 @@ It was made by following `SKILL.md` from step 3 on, starting from `templates/bri
 
 ## What was done, step by step
 3. **Voice.**
-   - `voice/voice.wav` is the script read by the Piper TTS voice `en_US-ryan-high`, one line at a time, with 0.55 s gaps.
-   - `voice/words.json` holds word timings from faster-whisper (`small.en`). The words are replaced with the script's own spelling, and one start time was hand-fixed ("Back").
-   - That voice is trained on a **CC BY-NC-SA** dataset, so it's for non-commercial use only. Record your own voice before publishing (the skill's rule anyway).
+   - `voice/voice.wav` is the script read by Kokoro (`kokoro-onnx`, voice `bm_george`, British English). The model and voices are Apache-2.0.
+   - Each line is generated separately and sped up just enough (1.0-1.37x) to fit the slot the picture gives it, so the shot timing didn't change.
+   - `voice/words.json` holds word timings from faster-whisper (`small.en`). The transcript matched the script word for word.
+   - An earlier version used Piper (`en_US-ryan-high`), which sounded robotic.
+   - It's still synthetic: for publishing, record a human read and re-time to it.
 4. **Shot plan.**
    - `src/story.ts` has 18 shots timed to `words.json`, with cuts 2 f before their word.
    - It also adds the new physics: `swayAmp` (the deck's sideways sway grows from "wiggle" on), `syncK` (the share of walkers locked in step) and `swayX` (the deck offset along the span).
@@ -83,4 +85,4 @@ To rebuild:
 - The world is the 1831 chain bridge and town from the template, not the real steel Millennium Bridge, St Paul's or the Tate.
 - Shots 2 and 3 show the deck calm on purpose (before "wiggle"), but they're still story-time flash-backs of the same crowd.
 - No Opus verifier rounds (`SKILL.md` step 9) were run against the reference frames.
-- The narration is TTS, so its delivery is flatter than a human read.
+- The narration is TTS (Kokoro). Several lines run 1.2-1.37x to fit the picture's timing, so some read a little fast.
