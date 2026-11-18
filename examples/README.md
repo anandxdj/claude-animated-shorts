@@ -10,6 +10,10 @@ What the skill produces, run in a Linux cloud box (no GPU, headless Chromium wit
 The Kenney CC0 kit (`public/bridge/kenney/*.glb`) was not installed, so stalls, banners, carts and bushes are missing.
 Everything else (world, ink, lens blur, grade, characters) is the template as shipped.
 
+## 2. A new short, built and rendered: `millennium-bridge/video.mp4`
+**The Bridge That Taught a Crowd to March** (66.6 s, 1080x1920) has narration (Piper TTS), an original score and synthesized SFX.
+`millennium-bridge/BUILD.md` covers every step, the 18 shots, and what's still rough. Only `story.ts`, `cast.ts` and `world.ts` differ from the template.
+
 ## 2-4. Three new shorts, planned with the skill
 Each folder covers pipeline steps 1-4 of `SKILL.md`, plus the cast:
 
