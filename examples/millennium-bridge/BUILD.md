@@ -43,6 +43,13 @@ It was made by following `SKILL.md` from step 3 on, starting from `templates/bri
     - `COMP=MillenniumShort DPR=0.6667 CONC=3 node ../tools/clip-linux.mjs out/video.mp4 0 1997 1`, then mux with `audio/mix.wav`.
     - This box has no GPU, so the WebGL buffer was 720x1280 (`post.dpr` 0.6667) at about 5 s per frame; the browser upscales to 1080x1920.
     - On a GPU machine, drop `DPR` and render the 2K final with `--scale 1.3333`.
+    - What happened along the way:
+      - The first full render crashed at the first crossfade (`fx.ink.dispose is not a function`). That's now fixed in `templates/bridge/Bridge.tsx`.
+      - In a later 900-frame run, the long-lived browser tabs lost the world's painted textures by shot 18 (black deck). A fresh render of that shot was correct, so the video is spliced from fresh renders. Keep long runs to a few hundred frames per process on software WebGL.
+      - QA (`templates/scripts/short_qa.py`) found one walker vanishing on frame 1909. The "too close to the lens" rule is now decided per shot instead of per frame, and that range was re-rendered.
+    - Final QA: 1998 frames, 66.600 s, -15.1 LUFS, no black, white or frozen frames, 0 held frames.
+      - The remaining flagged "pops" are intended: the bouncy-castle jumps (f 1236-1380) and a damper snapping on (f 1588).
+      - The 1 s near-silence at 37.0 s is the deadpan beat after "on the news".
 
 Only `story.ts`, `cast.ts` and `world.ts` differ from `templates/bridge/`.
 To rebuild:
@@ -75,4 +82,5 @@ To rebuild:
 ## Known gaps (it's an example, not a final)
 - The world is the 1831 chain bridge and town from the template, not the real steel Millennium Bridge, St Paul's or the Tate.
 - Shots 2 and 3 show the deck calm on purpose (before "wiggle"), but they're still story-time flash-backs of the same crowd.
-- No verifier rounds (`SKILL.md` step 9) were run, and the frame-by-frame QA script wasn't run either.
+- No Opus verifier rounds (`SKILL.md` step 9) were run against the reference frames.
+- The narration is TTS, so its delivery is flatter than a human read.

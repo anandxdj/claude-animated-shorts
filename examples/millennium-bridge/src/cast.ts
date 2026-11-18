@@ -466,7 +466,9 @@ const walkers = (id: number, t: number, b: BridgeState, cam: CamInfo, out: Stage
     const z = -24 + 48 * hh(i, 3) + dir * v * (t - mid), x0 = (hh(i, 4) - 0.5) * 4.0;
     if (id === 7 && Math.abs(z - hz + 1) < 4.2 && x0 > -1.6 && x0 < 1.8) continue; // keep the lane to the hero clear
     const x = x0 + swayX(z, b), y = D0;
-    if (cam.pos.distanceTo(tmp.set(x, y + 1.2, z)) < 2.4) continue;
+    // decided per shot (not per frame) so nobody vanishes mid-shot: skip anyone who comes within 2.4 m of the lens before the shot ends
+    const zEnd = z + dir * v * (s.b / FPS - t);
+    if (Math.min(cam.pos.distanceTo(tmp.set(x, y + 1.2, z)), cam.pos.distanceTo(tmp.set(x, y + 1.2, zEnd))) < 2.4) continue;
     const own = (tau * v / 1.4 + hh(i, 5)) % 1, ph = q(pmix(own, ((tau % 1) + 1) % 1, sk), 60);
     const lock = sk > hh(i, 6) ? 1 : 0.25; // locked walkers sway with the deck, the rest only a little
     const tilt = q(ampK * lock * 7 * swing * Math.min(1, Math.abs(swayX(z, { ...b, sway: 0.38 })) / 0.3), 2);
